@@ -134,3 +134,4 @@ words, as long as you comply with the GPL in all other respects,
 including its requirements to provide users with source code and the
 text of the license, we will not object to your distribution of the
 iSH app through the App Store.
+https://ffshare.garena.com/?action=qrcode_add_friend&region=IND&lang=hi&uid=652623976&version=OB50
